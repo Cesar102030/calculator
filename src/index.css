@@ -16,7 +16,7 @@ body {
 }
 
 body .github-fork-ribbon:before {
-  background-color: #e9ec18;
+  background-color: #ec1818;
 }
 
 @media screen and (max-width: 400px) {
